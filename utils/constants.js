@@ -2,7 +2,7 @@ module.exports = {
   database: {
     options: {
       // useNewUrlParser: true,
-      // useUnifiedTopology: true,
+      useUnifiedTopology: true,
     },
   },
   user: {
